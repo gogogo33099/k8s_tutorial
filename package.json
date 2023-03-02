@@ -1,0 +1,28 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "my notes via vuepress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogogo33099/notes.git"
+  },
+  "author": "gogo33099",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogogo33099/notes/issues"
+  },
+  "homepage": "https://github.com/gogogo33099/notes#readme",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}
