@@ -1,7 +1,7 @@
 {
-  "name": "notes",
+  "name": "k8s",
   "version": "1.0.0",
-  "description": "my notes via vuepress",
+  "description": "K8s tutorial via vuepress",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gogogo33099/notes.git"
+    "url": "git+https://github.com/gogogo33099/k8s_tutorial.git"
   },
   "author": "gogo33099",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gogogo33099/notes/issues"
+    "url": "https://github.com/gogogo33099/k8s_tutorial/issues"
   },
-  "homepage": "https://github.com/gogogo33099/notes#readme",
+  "homepage": "https://github.com/gogogo33099/k8s_tutorial#readme",
   "dependencies": {
     "koa": "^2.14.1",
     "koa-static": "^5.0.0"

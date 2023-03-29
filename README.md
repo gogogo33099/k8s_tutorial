@@ -15,4 +15,4 @@ npm run build
 npm run serve
 
 ```
-Output dir: `./dist` .
+Output dir: `./docs` .
