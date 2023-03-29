@@ -12,7 +12,7 @@ app.use(async(ctx, next) => {
     await next();
 });
 
-app.use(static(path.join(__dirname, './dist')));
+app.use(static(path.join(__dirname, './docs')));
 
 app.listen
 app.listen(8086, "0.0.0.0", () => {
