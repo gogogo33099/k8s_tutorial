@@ -1,8 +1,8 @@
 module.exports = {
-    base: '/notes/',
+    base: '/k8s/',
     dest: './dist',
-    title: 'Notes',
-    description: 'My Notes of technical articles',
+    title: 'K8s 教程',
+    description: 'K8s Tutorial version 1.18',
     themeConfig: {
         sidebar: 'auto',
       }
